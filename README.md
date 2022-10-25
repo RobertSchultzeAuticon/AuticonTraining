@@ -2,7 +2,7 @@
 
 ## Was ist git und wozu ist es gut?
 
-Git ist ein Versionskontrollsystem, also eine Software, die Dateiänderungen verfolgt. Ein git-Repository (eine "Lagerstätte") ist effektiv ein Ordner, in dem git "mitschreibt" was sich an Dateien geändert hat. Das passiert nur semi-automatisch, git-Benutzer**innen müssen einen Commit (eine "Einreichung") machen, bei dem die spezifischen Dateien und der Grund der Änderung festgelegt werden.
+Git ist ein Versionskontrollsystem, also eine Software, die Dateiänderungen verfolgt. Ein git-Repository (eine "Lagerstätte") ist ein Ordner, in dem git "mitschreibt" was sich an Dateien geändert hat. Das passiert nur semi-automatisch, git-Benutzer*innen müssen einen Commit (eine "Einreichung") machen, bei dem die spezifischen Dateien und der Grund der Änderung festgelegt werden.
 Später kann das Repository auf einen beliebigen vorherigen Zeitpunkt zurückgesetzt werden und vieles mehr.
 
 Ein lokales Repository selbst ist ein komplettes, fertiges Versionskontrollsystem und ist an sich schon nützlich, git bietet aber außerdem den großen Vorteil, dass verschiedene Benutzer auf verschiedenen Computern unabhängig voneinander Änderungen an den Dateien vornehmen können, die man danach zusammenführen kann und später z.B. zeilengenau herauszufinden, wann, was, von wem geändert wurde.
@@ -33,7 +33,8 @@ Ein Commit beinhält außerdem noch
 **clone**: eine lokale Kopie eines Repositories anlegen
 
 ### nicht git zentrale terme
-Diese Sachen gelten für Dinge wie github oder gitlab, sind aber kein Teil von git selbst, aber im allgemeinen sehr wichtig.
+
+Diese Sachen gelten für Dinge wie github oder gitlab, sind aber kein Teil von git selbst, aber im Allgemeinen sehr wichtig.
 
 **Fork**: eine Kopie eines Repositories das danach dem forkenden gehört und eigener Wege gehen kann. Jeder kann z.B. seinen eigenen Fork eines Open-Source-Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
 
