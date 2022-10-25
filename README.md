@@ -37,10 +37,10 @@ Ein commit beinhält außerdem noch
 ### nicht git zentrale terme
 Diese sachen gelten für dinge wie github oder gitlab, sind aber kein teil von git selbst, aber im allgemeinen sehr wichtig.
 
-**Fork**: eine Kopie eines Repositories das danach dem forkenden gehört und eigener wege gehen kann. Jeder kann zB seinen eigenen Fork eines Open-Source Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
+**Fork**: eine Kopie eines Repositories das danach dem forkenden gehört und eigener Wege gehen kann. Jeder kann zB seinen eigenen Fork eines Open-Source Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
 
 **Pullrequest**: 
-ist eine Anfrage an die jeweils berechtigten leute einen "pull" zu machen, also änderungen reinziehen.
+ist eine Anfrage an die jeweils berechtigten Leute einen "pull" zu machen, also änderungen reinziehen.
 ein pullrequest geht von einem Branch in einen anderen, nicht nur innerhalb eines repositories, sondern auch zwischen verschiedenen Forks.
 
 
