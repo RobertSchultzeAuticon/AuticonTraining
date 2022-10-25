@@ -2,8 +2,8 @@
 
 ## Was ist git und wozu ist es gut?
 
-Git ist ein Versionskontrollsystem, also eine Software, die Dateiänderungen verfolgt. Ein git repository (eine "Lagerstätte") ist effektiv ein Ordner, in dem git "mitschreibt" was sich an Dateien geändert hat. Das passiert nur semi-automatisch, der git-Benutzer muss einen commit (eine "einreichung") machen, bei dem die spezifischen Dateien und der Grund der Änderung festgelegt werden.
-Später kann das das repository auf einen Beliebigen vorherigen Zeitpunkt zurückgesetzt werden und vieles mehr.
+Git ist ein Versionskontrollsystem, also eine Software, die Dateiänderungen verfolgt. Ein git repository (eine "Lagerstätte") ist ein Ordner, in dem git "mitschreibt", was sich an Dateien geändert hat. Das passiert nur semi-automatisch, der git-Benutzer muss einen commit (eine "Einreichung") machen, bei dem die spezifischen Dateien und der Grund der Änderung festgelegt werden.
+Später kann das repository auf einen beliebigen vorherigen Zeitpunkt zurückgesetzt werden und vieles mehr.
 
 Ein lokales Repository selbst ist ein komplettes, fertiges Versionskontrollsystem und ist an sich schon nützlich, git bietet aber außerdem den großen Vorteil, dass verschiedene Benutzer auf verschiedenen Computern unabhängig voneinander Änderungen an den Dateien vornehmen können, die man danach zusammenführen kann und später zB Zeilengenau herauszufinden, wann, was, von wem geändert wurde.
 
