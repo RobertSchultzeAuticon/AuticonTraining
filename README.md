@@ -17,8 +17,11 @@ Außerhalb dieses Kurses spricht nichts dagegen eine Gui nach Wahl zu benutzen, 
 
 ## Hier Relevante Grundkonzepte
 
-**Repository**: der "git-ordner" aber auch das Projekt, ein Repository ist effektiv nur eine liste von commits
-**Commit**: die einzelnen Sätze an Änderungen, das kann auch mehrere Dateien beinhalten. Ein Commit enthält die komplette neue version, als "Snapshot" und somit kann man schnell vor und zurück springen ohne jedes mal mit unterschieden rechnen zu müssen. Dementsprechend ist ein Commit auch ein eindeutiger Zustand des gesamten Repositories, und zwei Leute, die zum selben commit "gehen" (siehe checkout) sollten den selben Zustand haben. 
+**Repository**: 
+der "git-ordner" aber auch das Projekt, ein Repository ist effektiv nur eine Liste von commits
+
+**Commit**: 
+die einzelnen Sätze an Änderungen, das kann auch mehrere Dateien beinhalten. Ein Commit enthält die komplette neue version, als "Snapshot" und somit kann man schnell vor und zurück springen ohne jedes mal mit unterschieden rechnen zu müssen. Dementsprechend ist ein Commit auch ein eindeutiger Zustand des gesamten Repositories, und zwei Leute, die zum selben commit "gehen" (siehe checkout) sollten den selben Zustand haben. 
 (zumindest dinge die teil des repositories sind)
 
 Ein commit beinhält außerdem noch
@@ -37,7 +40,8 @@ Ein commit beinhält außerdem noch
 ### nicht git zentrale terme
 Diese sachen gelten für dinge wie github oder gitlab, sind aber kein teil von git selbst, aber im allgemeinen sehr wichtig.
 
-**Fork**: eine Kopie eines Repositories das danach dem forkenden gehört und eigener wege gehen kann. Jeder kann zB seinen eigenen Fork eines Open-Source Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
+**Fork**: 
+eine Kopie eines Repositories das danach dem forkenden gehört und eigener wege gehen kann. Jeder kann zB seinen eigenen Fork eines Open-Source Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
 
 **Pullrequest**: 
 ist eine Anfrage an die jeweils berechtigten leute einen "pull" zu machen, also änderungen reinziehen.
