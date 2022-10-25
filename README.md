@@ -35,7 +35,7 @@ Ein commit beinhält außerdem noch
 **clone**: eine lokale kopie eines repositories anlegen
 
 ### nicht git zentrale terme
-Diese sachen gelten für dinge wie github oder gitlab, sind aber kein teil von git selbst, aber im allgemeinen sehr wichtig.
+Diese sachen gelten für dinge wie github oder gitlab, sind aber kein Teil von git selbst, aber im allgemeinen sehr wichtig.
 
 **Fork**: eine Kopie eines Repositories das danach dem forkenden gehört und eigener wege gehen kann. Jeder kann zB seinen eigenen Fork eines Open-Source Projektes machen um darin Änderungen vorzunehmen und diese Version stattdessen anzubieten.
 
